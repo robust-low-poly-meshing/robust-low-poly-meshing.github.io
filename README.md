@@ -7,7 +7,7 @@
 
 *2: Univeristy of Texas at Austin*
 
-ACM Tran. on Graphics (SIGGRAPH 2023)
+ACM Trans. Graph. (SIGGRAPH 2023)
 
 [Paper] [Video] [Program]
 
