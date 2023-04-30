@@ -1,7 +1,7 @@
 # Robust Low-Poly Meshing for General 3D Models
 **Zhen Chen<sup>1,2</sup>, Zherong Pan<sup>1</sup>, Kui Wu<sup>1</sup>, Etienne Vouga<sup>2</sup>, Xifeng Gao<sup>1</sup>**
 
-<sup>1</sup>Lightspeed Studios, Tencent America, <sup>2</sup>Univeristy of Texas at Austin
+<sup>1</sup>Lightspeed Studios, <sup>2</sup>Univeristy of Texas at Austin
 
 *ACM Transactions on Graphics (SIGGRAPH), 2023*
 ![](imgs/gallery_24dpi.png)
