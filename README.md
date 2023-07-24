@@ -4,7 +4,7 @@
 <sup>1</sup>Lightspeed Studios, <sup>2</sup>Univeristy of Texas at Austin
 
 *ACM Transactions on Graphics (SIGGRAPH), 2023*
-![](imgs/gallery_24dpi.png)
+![](imgs/gallery_24dpi.jpg)
 
 [Paper](paper/Robust_Self_Collision_Free_Remeshing.pdf) [Program](exe/RoLoPM_Release.zip)
 
@@ -14,8 +14,7 @@ We propose a robust re-meshing approach that can automatically generate visual-p
 </p>
 
 ## News
-The executable file will be released soon
-
+Our surface remeshing exe is released! Check [here](exe/RoLoPM_Release.zip) for details
 
 ## License
 To be updated.
