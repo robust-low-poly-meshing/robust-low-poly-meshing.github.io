@@ -6,7 +6,7 @@
 *ACM Transactions on Graphics (SIGGRAPH), 2023*
 ![](imgs/gallery_24dpi.png)
 
-[Paper](paper/Robust_Self_Collision_Free_Remeshing.pdf) [Program](exe)
+[Paper](paper/Robust_Self_Collision_Free_Remeshing.pdf) [Program](exe/RoLoPM_Release.zip)
 
 ## Abstract
 <p style="text-align: justify;">
