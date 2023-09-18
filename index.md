@@ -14,7 +14,27 @@ We propose a robust re-meshing approach that can automatically generate visual-p
 </p>
 
 ## News
-Our surface remeshing exe is released! Check [here](exe/RoLoPM_Release.zip) for details
+Our surface remeshing exe is released! Check [here](exe/RoLoPM_Release.zip) for details. 
+
+## Run Exe
+To execute our executable file, follow these steps:
+
+```
+./SurfaceRemeshingCli_bin.exe -i "YourObjMeshFile.obj" -n 100
+```
+
+Here's what each option means:
+
+- The `-i` flag specifies the input mesh file in .obj format.
+- The `-n` flag allows you to adjust precision. A higher number yields a more precise result but consumes more time and memory. Please note that the current version supports a maximum precision level of `-n 400`.
+
+For more detailed information about available parameters, you can run:
+
+```
+./SurfaceRemeshingCli_bin.exe -h
+```
+
+This command will provide you with comprehensive details on the available options and their usage.
 
 
 ## License
