@@ -6,7 +6,7 @@
 *ACM Transactions on Graphics (SIGGRAPH), 2023*
 ![](imgs/gallery_24dpi.jpg)
 
-[Paper](paper/Robust_Self_Collision_Free_Remeshing.pdf) [Program](exe/RoLoPM_Release.zip) [data](https://www.dropbox.com/scl/fo/9smmsvajzn4qj23s9xfoj/h?rlkey=g27cj058urro6rroqb1zffmxz&dl=0)
+[Paper](paper/Robust_Self_Collision_Free_Remeshing.pdf) [Program](exe/RoLoPM_EXE.zip) [data](https://www.dropbox.com/scl/fo/9smmsvajzn4qj23s9xfoj/h?rlkey=g27cj058urro6rroqb1zffmxz&dl=0)
 
 ## Abstract
 <p style="text-align: justify;">
@@ -14,7 +14,7 @@ We propose a robust re-meshing approach that can automatically generate visual-p
 </p>
 
 ## News
-Our surface remeshing exe is released! Check [here](exe/RoLoPM_Release.zip) for details. 
+Our surface remeshing exe is released! Check [here](exe/RoLoPM_EXE.zip) for details. 
 
 ## Run Exe
 To execute our executable file, follow these steps:
@@ -34,7 +34,7 @@ For more detailed information about available parameters, you can run:
 ./SurfaceRemeshingCli_bin.exe -h
 ```
 
-This command will provide you with comprehensive details on the available options and their usage.
+This command will provide you with comprehensive details on the available options and their usage. 
 
 
 ## License
