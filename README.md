@@ -14,7 +14,7 @@ We propose a robust re-meshing approach that can automatically generate visual-p
 </p>
 
 ## News
-Our surface remeshing exe is released! Check [here](exe/RoLoPM_Release.zip) for details. 
+Our surface remeshing exe is released! Check [here](exe/RoLoPM_EXE.zip) for details. 
 
 ## Run Exe
 To execute our executable file, follow these steps:
