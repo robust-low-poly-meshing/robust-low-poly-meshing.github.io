@@ -38,4 +38,40 @@ This command will provide you with comprehensive details on the available option
 
 
 ## License
-To be updated.
+
+# Software License Agreement
+
+**IMPORTANT: PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE CONTINUING WITH THIS PROGRAM INSTALL: [Tencent Holdings Ltd]'s ("Licensor") "Software" includes all software included with this agreement, the associated media, any printed materials, and any "online" or electronic documentation. By installing, copying, or otherwise using the Software, you agree to be bound by the terms of this agreement. If you do not agree to the terms of this agreement, promptly uninstall this software.**
+
+## LICENSE TERMS
+
+The Licensor grants you a non-exclusive, non-transferable license to use the Software subject to all the terms and conditions set forth here.
+
+1. **Use of the Software**
+    - You may install and use an unlimited number of copies of the Software on your devices.
+    - The primary user of the device on which the Software is installed may make a second copy for their exclusive use on a portable device.
+    - You are allowed to use the Software for any lawful purpose.
+
+2. **Restrictions**
+    - You may not modify, translate, rent, sublicense, lease, lend, resell for profit, distribute, network, or create derivative works based upon the Software or any part thereof.
+    - You shall not merge, adapt, translate, modify, or reverse engineer, decompile, disassemble or create derivative works of the Software and shall not permit others to do so.
+    - You may not redistribute the Software in any way, including by means of uploading the Software to a file sharing service or other type of hosting service or distributing the Software through any other medium.
+
+3. **Termination**
+    - This License is effective until terminated. You may terminate it at any time by destroying the Software, together with all copies thereof.
+    - This License will also terminate automatically if you fail to comply with any term or condition of this Agreement. Upon such termination, you agree to destroy the Software, together with all copies thereof.
+  
+4. **Copyright**
+    - The Software is owned by the Licensor and is protected by United States copyright law and international treaty provisions.
+
+5. **No Warranties**
+    - The Licensor expressly disclaims any warranty for the Software. The Software and any related documentation is provided "as is" without warranty of any kind, either express or implied, including, without limitation, the implied warranties or merchantability, fitness for a particular purpose, or noninfringement.
+    - The entire risk arising out of use or performance of the Software remains with you.
+
+6. **Limitation of Liability**
+    - In no event shall the Licensor be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) rising out of 'Authorized Users' use of or inability to use the Software, even if the Licensor has been advised of the possibility of such damages. In no event will Licensor be liable for loss of data or for indirect, special, incidental, consequential (including lost profit), or other damages based in contract, tort or otherwise.
+
+7. **Governing Law**
+    - This agreement shall be governed by the laws of the State/Province of [Your State/Province], without reference to conflict of laws principles.
+
+**By installing and using the Software, you acknowledge that you have read this agreement, understand it, and agree to be bound by its terms and conditions.**
